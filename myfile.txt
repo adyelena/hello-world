@@ -1,2 +1,3 @@
-firt file created by me in the current repository
+firt - add - here -  file created by me in the current repository
 modify the file
+new line in file
